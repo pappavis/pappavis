@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pappavis
-- 👀 I’m interested in ...
+- 👀 I’m interested in Home automation
 - 🌱 I’m currently learning OpenCV
 - 💞️ I’m looking to collaborate bottle recognition
 - 📫 How to reach me ...
