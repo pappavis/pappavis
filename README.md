@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pappavis
 - 👀 I’m interested in Home automation
 - 🌱 I’m currently learning OpenCV
-- 💞️ I’m looking to collaborate bottle recognition
+- 💞️ I’m looking to collaborate on OpenCV electric meter recognition
 - 📫 How to reach me ...
 
 <!---
