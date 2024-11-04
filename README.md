@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pappavis
-- 👀 I’m interested in Home automation
-- 🌱 I’m currently learning OpenCV
+- 👀 I’m interested in design & build electronics
+- 🌱 I’m currently building a reSID MOS6581-guitar pedal ith MIDI-support
 - 💞️ Looking for collaborations on Computer Vision
 
 
