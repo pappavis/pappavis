@@ -1,5 +1,5 @@
 - 👋 Hi, I’m an electronics hobbyist 
-- 👀 Interested in design & building hobby electronics
+- 👀 Interested in design & building hobby electronics, R/C aircraft & submarines
 - 🌱 Currently developing a reSID MOS6581-guitar pedal with ESP32 C2 MIDI-support
 - 💞️ Looking for collaborations on analog-digital sound synthesizers
 
