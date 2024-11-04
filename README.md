@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pappavis
 - 👀 I’m interested in design & build electronics
-- 🌱 I’m currently building a reSID MOS6581-guitar pedal ith MIDI-support
-- 💞️ Looking for collaborations on Computer Vision
+- 🌱 I’m currently developing a reSID MOS6581-guitar pedal with ESP32 C2 MIDI-support
+- 💞️ Looking for collaborations on analog-digital sound synthesizers
 
 
 <!---
